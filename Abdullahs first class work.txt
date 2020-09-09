@@ -1,0 +1,19 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+       
+     int z = 10;
+     
+     int a = 15;
+     
+    System.out.println(a + z) ;
+     
+    System.out.println(a - z);
+      System.out.println(a * z);
+     System.out.println(a > z);       
+     
+     String r = "Abdullah" ;
+     
+     String b = "Alnoumas";
+
+     System.out.println(r+b);}}
